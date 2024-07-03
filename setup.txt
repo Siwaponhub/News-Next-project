@@ -1,0 +1,5 @@
+cd to backend folder and npm start in command line
+    if in folder backend do not have node_modules folder please npm install better-sqlite3
+cd .. to root folder project and npm run dev to start next, 
+    and next folder will also be installed.
+    if in root folder do not have node_modules folder please npm i
